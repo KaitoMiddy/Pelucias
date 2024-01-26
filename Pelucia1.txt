@@ -1,2 +1,3 @@
 Nome: Quack
 Cor: Amarelo, com bico laranja
+Raçã : Pato
